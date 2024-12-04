@@ -1,0 +1,44 @@
+.dynamic-form {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-field {
+  margin-bottom: 15px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8em;
+}
+
+.success {
+  color: green;
+  margin-top: 10px;
+}
+
+.progress-bar {
+  height: 5px;
+  background-color: green;
+  margin-top: 10px;
+  transition: width 0.3s;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
